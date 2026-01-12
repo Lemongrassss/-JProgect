@@ -1,0 +1,15 @@
+red
+orange
+yellow
+green
+blue
+lightblue
+violet
+pink
+brown
+black
+white
+gray
+turquoise
+lilac
+gold
